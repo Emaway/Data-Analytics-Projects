@@ -19,7 +19,7 @@ VoteCount = 0
 TotalVoteCount = []
 Candidate_selected = []
 for row in csvreader: 
-    VoteCount = VoteCount + 1
+    VoteCount = VoteCount + 1 
     Candidate = row[2]
     if Candidate not in Candidate_selected:
         Candidate_selected.append(Candidate)

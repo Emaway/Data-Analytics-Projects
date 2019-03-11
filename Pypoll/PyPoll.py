@@ -16,7 +16,7 @@ with open(csvpath, "r") as csvfile:
 
 # 1) total number of votes cast (== total number of rows [0] - header row)
 
-def TotalVoteCount(election_data):
+def TotalVoteCount(electiondata):
     
     TotalVoteCount = []
     row_numbers = 0
