@@ -13,21 +13,14 @@ with open(csvpath, "r") as csvfile:
 #Read through each row of data
     csv_header = next(csvreader)
     print("Header:", csv_header)
-       
+    for line in csvreader:
+       print(line)
+
+
 #------------------------------------------------------------------------
 # Header: ['Date', 'Profit/Losses']
 # First row with data ['Jan-2010', '867884']
 #data = []
-
-Total = []
-def totalnetAmount(BudgetData):
-    Total = 0
-for row in csvreader:
-    total = total + 1
-    row = int(row[1]) + 1
-    return total
-    print(total)
-
 # row = ['Date', 'Profit/Losses']
     #row[0].Split(',')
     #Date = datetime._wrap_strftime(row[0], %m/%d/%y)
