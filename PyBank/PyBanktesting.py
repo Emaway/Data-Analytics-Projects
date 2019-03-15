@@ -13,9 +13,11 @@ with open(csvpath, "r") as csvfile:
 #Read through each row of data
     csv_header = next(csvreader)
     print("Header:", csv_header)
-    for line in csvreader:
-       print(line)
-
+    #for line in csvreader:
+      # print(line)
+data = []
+ProfitLosses = int(row[1])
+data.append([ProfitLosses])
 
 #------------------------------------------------------------------------
 # Header: ['Date', 'Profit/Losses']
