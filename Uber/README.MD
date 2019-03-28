@@ -8,3 +8,4 @@ Uber homework for UCB bootcamp.
 2.	Total Fares by City Type
 3.	Total Rides by City Type
 4.	Total Drivers by City Type
+### All figures for the above contents saved in Pyber images folder.
