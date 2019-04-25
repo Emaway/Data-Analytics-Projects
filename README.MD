@@ -1,4 +1,4 @@
-# MYSQL homework for UCB bootcamp
+# SQL homework for UCB bootcamp
 
 ## Summary
 
