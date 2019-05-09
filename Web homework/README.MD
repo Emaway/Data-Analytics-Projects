@@ -3,5 +3,5 @@
 
 ## Summary
 
-### Final web home work is in folder final web home work
-### Resource folder contains data used for web page development.
+### Final homework folder contains web pages developed to build Web Visualization Dashboard.
+### Resource folder contains the source data used in web pages development.
