@@ -22,7 +22,7 @@ submit.on("click", function() {
  
   // Get a reference to the table body
   var tbody = d3.select("tbody");
-
+  tbody.html("");
   // Loop Through UFO data and console.log objects using Arrow function
 
   filteredData.forEach((ufoInformation) => {
