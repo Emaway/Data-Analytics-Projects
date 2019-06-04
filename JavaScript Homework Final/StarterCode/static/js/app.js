@@ -30,7 +30,7 @@ submit.on("click", function() {
     var row = tbody.append("tr");
     Object.entries(ufoInformation).forEach(([key, value]) => {
       console.log(key, value);
-      var cell = tbody.append("td");
+      var cell = row.append("td");
       cell.text(value);
     });
   });
