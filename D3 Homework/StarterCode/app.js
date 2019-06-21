@@ -162,15 +162,15 @@ function renderXAxes(newXScale, xAxis) {
     .append("circle")
     .attr("cx", d => xLinearScale(d[chosenXAxis]))
     .attr("cy", d => yLinearScale(d[chosenYAxis])) 
-    .attr("r", 15)
+    .attr("r", 10)
     .attr("fill", "lightblue")
     .attr("opacity", ".75");
 
   var textGroup = circlesGroup_2
     .append("text")
-    .style("font-size", "10px")
-    .attr("dx", d => xLinearScale(d[chosenXAxis])-8)
-    .attr("dy", d => yLinearScale(d[chosenYAxis])+15/3.5)
+    .style("font-size", "8px")
+    .attr("dx", d => xLinearScale(d[chosenXAxis])-5)
+    .attr("dy", d => yLinearScale(d[chosenYAxis])+10/3)
     .text(d => d.abbr);
 
     // Create group for  3 x- axis labels
