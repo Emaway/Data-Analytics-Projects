@@ -165,7 +165,6 @@ function renderXAxes(newXScale, xAxis) {
     .attr("r", 10)
     .attr("fill", "lightblue")
     .attr("opacity", ".75");
-
   var textGroup = circlesGroup_2
     .append("text")
     .style("font-size", "8px")
