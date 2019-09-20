@@ -24,20 +24,3 @@
     Table created to compute percentage of projects (successful, failed, cancelled) per goal
     Line chart based on table  
       Note: Column A & B are hidden. Values from Column A & B are taken from original dataset(sheet1) and used to populate the table using COUNTIFS() formula.
-
-
-
-Conclusions about Kickstarter campaigns from provided data
-
--	From over all projects 
-o	53% successful
-o	37% failed
-o	8 % canceled
-o	1% live
--	Category theater, music and film & videos cover 41 % out of 53% successful outcome.  From subcategories classic music, documentary, electronic music, hardware, indie rock, Plays, rock covers 36% out of 53% successful outcome.  
--	theater, music and film & videos also contributes 19 % out of 37% failed outcome
- 
-Limitations of this dataset.
-
--	data representativeness 
-- 74% projects implemented in the US.      
