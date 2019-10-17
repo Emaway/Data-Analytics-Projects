@@ -1,6 +1,6 @@
-## This repository comprises of homework assignments necessary to develop data analyses and visualization skills. 
-### skills includes
+This repository comprises of homework assignments necessary to develop data acquisition, data cleaning, data exploration, data analyses and visualization skills.
 
+### skills includes
 #### -	Excel 
 #### -	VBA
 #### -	Python for data analytics 
