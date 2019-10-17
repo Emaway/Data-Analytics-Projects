@@ -2,6 +2,8 @@
 
 This repository comprises of homework assignments necessary to develop data acquisition, data cleaning, data exploration, data analyses and visualization skills. This project is a part of the UC [Berkeley Data Analytics Boot Camp](https://bootcamp.berkeley.edu/data/).  Other assignments and projects can be found at the [main GitHub repo](https://github.com/Emaway?tab=repositories).
 
+#### -- Status: [Active]
+
 fundamental skills gained in this course includes
 
 Advanced Excel
