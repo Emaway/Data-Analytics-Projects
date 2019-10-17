@@ -1,17 +1,14 @@
 
-# SQLAlchemy Homework for UC Berkeley Bootcamp	
+# SQLAlchemy (Advanced Data Storage and Retrieval) Homework for UCBX
 
 ## Summary 
+Objective:-to develop data visualization on climate data stored in database.
 
-### Climate data obtained from Table measurement and Table station in SQLite database.
+In this assignment Python and SQLAlchemy used to retrive data from sqlite database. Data analysis is performed using SQLAlchemy ORM queries, Pandas, and Matplotlib used to produce visualizations. Flask API developed based on the queries.
 
-#### Precipitation and Station analysis done using Jupyter notebook 
+Technologies
 
-#### FLASK API used to design routes 
-
-##### Lists of Routes designed include:
-
-###### Precipitation API
-###### Stations API
-###### Temperature APIs
-
+- Python/Jupyter Notebook
+- Python Libraries(Pandas, Numpy,matplotlib)
+- SQLAlchemy, flask app
+- sqlite
