@@ -1,5 +1,6 @@
-# JavaScript Homework for UC Berkeley Bootcamp
+## JavaScript and DOM Manipulation Homework for UC Berkeley Bootcamp
 
-## Summary
+Objective:- to develop dynamical web page using JavaScript, HTML, and CSS, and D3.js.  
+### Summary
 
-### StarterCode folder contains all files/data included in this homework.  
+This webpage enables the users to filter specific values through automatic table throuh specific date search.
