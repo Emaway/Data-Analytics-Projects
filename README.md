@@ -6,8 +6,8 @@ fundamental skills gained in this course includes
 
 Advanced Excel
 
-   - Pivot Tables
-   - VBA Scripting
+     -  Pivot Tables
+     -  VBA Scripting
    
 Fundamental Statistics
 
