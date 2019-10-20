@@ -8,8 +8,5 @@ Technologies
     - Pandas
     - Jupyter-Notebook
 
-Visualizations
-[Bubble Plot](https://github.com/Emaway/Homework/blob/master/5-Matplotlib%20Homework/Pyber_images/Average%20Fare%20by%20City%20Type.png)
-[Pie Chart](https://github.com/Emaway/Homework/blob/master/5-Matplotlib%20Homework/Pyber_images/Total_ride_percent.png)
-=======
->>>>>>> f43b6d8eac1ad79ce09fa98775d710160df61474
+![Bubble Plot](https://github.com/Emaway/Homework/blob/master/5-Matplotlib%20Homework/Pyber_images/Average%20Fare%20by%20City%20Type.png)
+![Pie Chart](https://github.com/Emaway/Homework/blob/master/5-Matplotlib%20Homework/Pyber_images/Total_ride_percent.png)
