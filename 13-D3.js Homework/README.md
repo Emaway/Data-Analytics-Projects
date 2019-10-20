@@ -7,6 +7,8 @@ Technologies
     - CSS
     - HTML
     - js 
+
+
 Requirements
     - use `python -m http.server` to run the visualization. This will host the page at `localhost:8000` in your web browser.
     
