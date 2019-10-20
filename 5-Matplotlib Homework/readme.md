@@ -1,5 +1,4 @@
 
-<<<<<<< HEAD
 objective is to build a plot/chart to tell the story using UBER ride data and city data.
 
 Technologies
