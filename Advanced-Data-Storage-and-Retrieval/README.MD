@@ -4,7 +4,7 @@
 ## Summary 
 Objective:-to develop data visualization on climate data stored in database.
 
-In this assignment Python and SQLAlchemy used to retrive data from sqlite database. Data analysis is performed using SQLAlchemy ORM queries, Pandas, and Matplotlib used to produce visualizations. Flask API developed based on the queries.
+Python and SQLAlchemy used to retrive data from sqlite database. Data analysis is performed using SQLAlchemy ORM queries, Pandas, and Matplotlib used to produce visualizations. Flask API developed based on the queries.
 
 Technologies
 
