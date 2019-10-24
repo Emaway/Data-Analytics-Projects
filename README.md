@@ -1,51 +1,40 @@
 
+Summary 
 
-This repository comprises of various projects necessary to develop data acquisition, data cleaning, data exploration, data analyses and visualization skills. This project is a part of the UC [Berkeley Data Analytics Boot Camp](https://bootcamp.berkeley.edu/data/).  Other projects can be found at the [main GitHub repo](https://github.com/Emaway?tab=repositories).
+This repository consists of multiple projects necessary to develop data analytic skills. This starts from data acquisition, data cleaning, data exploration, data analyses and interpretation, create visualization using various techniques. 
+This project is a part of the UC [Berkeley Data Analytics Boot Camp](https://bootcamp.berkeley.edu/data/).  Other projects can be found at the [main GitHub repo](https://github.com/Emaway?tab=repositories).
 
-#### -- Status: [Active]
+Data analytics and visualization skills appied to complete projects include:-
 
-fundamental skills gained in this course includes
-
-Advanced Excel
-
-     -  Pivot Tables
-     -  VBA Scripting
-   
-Fundamental Statistics
-
-     - Modeling
-     - Forecasting
-     
-Python Programming
-
-     - Python 3
-     - NumPy
-     - Pandas
-     - Matplotlib
-     - API Interactions
-     - Social Media Mining
-
-Databases
-
-     - MySQL
-     - MongoDB
-     - ETL
-
-Front–End Web Visualization
-
-     - HTML
-     - CSS
-     - Bootstrap
-     - Dashboarding
-     - JavaScript Charting
-     - D3.js
-     - Geomapping with Leaflet.js
-
-Business Intelligence Software
-
-     - Tableau
-
-Advanced Topics
-
+     - Advanced Excel
+          -  Pivot Tables
+          -  VBA Scripting
+     - Fundamental Statistics
+          - Modeling
+          - Forecasting
+     - Python Programming
+          - Python 3
+          - NumPy
+          - SciPy 
+          - Pandas
+          - Matplotlib
+          - API Interactions
+          - Social Media Mining
+     - Databases
+          - MySQL
+          - MongoDB
+          - ETL
+     - Front–End Web Visualization
+          - HTML
+          - CSS
+          - Bootstrap
+          - Dashboarding
+          - JavaScript Charting
+          - D3.js
+          - Geomapping with Leaflet.js
+     - Business Intelligence Software
+          - Tableau
+     - Machine Learning 
      - Big Data Analytics with Hadoop
 
+#### -- Status: [Active]
