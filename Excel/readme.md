@@ -1,4 +1,4 @@
-# KickStart Prijects Excel Analysis 
+# KickStart Projects Excel Analysis 
 
 ## Objective 
 ### To organize and analyze a database of four thousand past projects in order to uncover any hidden trends
