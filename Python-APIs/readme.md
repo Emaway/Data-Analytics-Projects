@@ -21,6 +21,7 @@ Technologies
     - numpy 
     - citipy
 
-- OpenWeatherMap API
+- OpenWeatherMap API<b />
  
-  ![](https://github.com/Emaway/Homework/blob/master/6-Python%20APIs%20Homework/Weather_images/City%20latitude%20Vs%20Temperature.png)
+![](https://github.com/Emaway/Data-Analytics-Projects/blob/master/Python-APIs/Weather_images/City%20latitude%20Vs%20Humidity.png)
+![](https://github.com/Emaway/Data-Analytics-Projects/blob/master/Python-APIs/Weather_images/City%20Latitude%20Vs%20Wind.png)
