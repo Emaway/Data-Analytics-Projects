@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <title>Mission to Mars</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="jumbotron text-center">
+        <h1>NASA Mars Mission</h1>
+        <p><a class="btn btn-primary btn-lg" href="/scrape" role="button">Click here to scrape NASA Mars News Site </a></p>
+      </div>
+    </div>
+    <div class = "container">
+      <div class="card">
+        <div class="card-body"> 
+          <i><h4 class="text-left"> Latest News Title </h4></i>
+          <p >{{marsdata.news_title}}</p>
+          <i><h4 class="text-left">Latest News Paragraph</h4></i>
+          <p >{{marsdata.news_paragraph}}</p>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-7">
+          <h3 style= "color:black"> Featured Mars Image </h3>
+          <img src={{marsdata.featured_image_url}}  
+          alt="mars featured image" width="660px" height="560px" style= "margin-right: 
+          30px; margin-bottom: 2px; border:solid black 1px; padding: 1px">
+        </div>
+        <div class="col-5">       <br> <br>  <br>
+          <div class = "card text-black bg-warning mb-3"  style = "width:26rem;">
+            <div class="card-body">
+              <h5 class="card-title">Mars weather</h5>
+              <p class="card-text">{{marsdata.mars_weather}}</p>
+            </div>
+          </div>
+              <strong><h4 style= "color:black">Mars facts</h4></strong>
+              <ul style="color:black">{{marsdata.html_table | safe}}</ul>
+        </div>
+      </div>
+    </div> 
+  <hr>
+    <div class="container">
+      <div class="row">
+        <div class="col-6">
+          <img class="img img-responsive" src=  {{marsdata.hemisphere_img[0].full_img_url}}
+          width="380x" height="380px" alt="Cerberus Hemisphere Enhanced" 
+          style= "margin:20px 20px 0px 20px; border:solid rgb(197, 85, 10) 1px; padding: 1px">
+          <p style="color:rgb(197, 85, 10)">{{marsdata.hemisphere_img[0].title}}</p>
+        </div>
+        <div class="col-6">
+          <img class="img img-responsive" src=  {{marsdata.hemisphere_img[1].full_img_url}}
+          width="380x" height="380px" alt="Schiaparelli Hemisphere Enhanced" 
+          style= "margin:20px 20px 0px 20px; border:solid rgb(226, 97, 10) 1px; padding: 1px">
+          <p style="color:rgb(197, 85, 10)">{{marsdata.hemisphere_img[1].title}}</p>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-6">
+          <img class="img img-responsive" src= {{marsdata.hemisphere_img[2].full_img_url}}
+          width="380x" height="380px" alt="Syrtis Major Hemisphere Enhanced" 
+          style= "margin:20px 20px 0px 20px; border:solid rgb(226, 97, 10) 1px; padding: 1px">
+          <p style="color:rgb(197, 85, 10)">{{marsdata.hemisphere_img[2].title}}</p>
+        </div>
+        <div class="col-6">
+          <img class="img img-responsive" src=  {{marsdata.hemisphere_img[3].full_img_url}}
+          width="380x" height="380px" alt="Valles Marineris Hemisphere Enhanced" 
+          style= "margin:20px 20px 0px 20px; border:solid rgb(226, 97, 10) 1px; padding: 1px">
+          <p style="color:rgb(197, 85, 10)">{{marsdata.hemisphere_img[3].title}}</p>
+        </div>
+      </div>
+    </div>
+            
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </body>
+</html>
+
