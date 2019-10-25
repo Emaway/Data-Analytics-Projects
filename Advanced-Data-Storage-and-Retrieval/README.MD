@@ -13,5 +13,6 @@ Technologies
 - SQLAlchemy, flask app
 - sqlite
 
-![](https://github.com/Emaway/Data-Analytics-Projects/blob/master/Python-APIs/Weather_images/City%20latitude%20Vs%20Humidity.png)
-![](https://github.com/Emaway/Data-Analytics-Projects/blob/master/Python-APIs/Weather_images/City%20Latitude%20Vs%20Wind.png)
+
+***station with the highest number of temperature observations***
+![](https://github.com/Emaway/Data-Analytics-Projects/blob/master/Advanced-Data-Storage-and-Retrieval/Images/temperature.png)
