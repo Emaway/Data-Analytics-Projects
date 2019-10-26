@@ -24,6 +24,15 @@ Requirements
 	- requirements.txt
 	- runtime.txt
 
-Heroku App link
+![](Images/dashboard_header.PNG)
+<br />
+
+![](Images/pie_chart.png)
+<br />
+
+![](Images/bubble_chart.png2.PNG)
+<br />
+
+Heroku App link <br />
 https://mycoolbbbapp.herokuapp.com
 
