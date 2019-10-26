@@ -27,11 +27,12 @@ Technologies
   Requirements  
   - chromedriver.exe
   - requirements.txt 
+  - Procfile
 
 Contents include:
 
 - Jupyther Notebook called mission_to_mars-final contains scraping codes.
-- Python script called scrape mars.py contains scraping codes.
+- Python script called scrape_mars contains scraping codes.
 - Python script called app.py renders data from Mongodb to HTML to display mars data.
 - HTML file called index.html. 
 
