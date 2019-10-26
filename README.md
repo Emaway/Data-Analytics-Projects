@@ -1,7 +1,7 @@
 
 Summary 
 
-This repository consists of multiple projects necessary to develop data analytic skills. This starts from data acquisition, data cleaning, data exploration, data analyses and interpretation, create visualization using various techniques. 
+This repository consists of multiple projects necessary to develop data analytics skills. This starts from raw data acquisition, data cleaning, data exploration, data analyses and interpretation, create visualization using various techniques. 
 This project is a part of the UC [Berkeley Data Analytics Boot Camp](https://bootcamp.berkeley.edu/data/).  Other projects can be found at the [main GitHub repo](https://github.com/Emaway?tab=repositories).
 
 Data analytics and visualization skills applied to complete projects include:-
