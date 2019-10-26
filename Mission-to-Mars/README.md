@@ -27,7 +27,7 @@ Technologies
   Requirements  
   - chromedriver.exe
   - requirements.txt 
-  - Procfile
+
 
 Contents include:
 
