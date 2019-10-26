@@ -15,4 +15,4 @@ Technologies
 
 
 ***station with the highest number of temperature observations***
-![](https://github.com/Emaway/Data-Analytics-Projects/blob/master/Advanced-Data-Storage-and-Retrieval/Images/temperature.png)
+![](Images/temperature.png)
