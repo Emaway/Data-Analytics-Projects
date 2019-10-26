@@ -12,5 +12,3 @@ Objective:- Create a visualization dashboard website for weather anslyses visual
 ### Technologies
     - HTML
     - Bootstrap
-
-Raw Data is being kept [Resources]and visualizations are kept in [Resources/assets]Repository folder within this repositiory.
