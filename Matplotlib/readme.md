@@ -9,5 +9,8 @@ Technologies
     - Pandas
     - Jupyter-Notebook
 
-![](https://github.com/Emaway/Data-Analytics-Projects/blob/master/Matplotlib/Pyber_images/Average%20Fare%20by%20City%20Type.png)
-![](https://github.com/Emaway/Data-Analytics-Projects/blob/master/Matplotlib/Pyber_images/Total_ride_percent.png/)
+![](Pyber_images/Average-Fare-by-City-Type.PNG)
+<br />
+<br />
+
+![](Pyber_images/Total_ride_percent.png/)
