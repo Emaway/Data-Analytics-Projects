@@ -5,3 +5,6 @@ Objective:- visualize an earthquake data set obtained from [USGS GeoJSON Feed](h
 methods
 - Leaflet
 - HTML-js-CSS
+
+
+![](Images/satellite-map.PNG)
