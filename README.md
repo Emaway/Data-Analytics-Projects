@@ -32,7 +32,10 @@ Data analytics and visualization skills applied to complete projects include:-
           - JavaScript Charting
           - D3.js
           - Geomapping with Leaflet.js
-     - Business Intelligence Software
+    
+   ### on progress 
+    
+    - Business Intelligence Software
           - Tableau
      - Machine Learning 
      - Big Data Analytics with Hadoop
